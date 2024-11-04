@@ -1,7 +1,8 @@
--- Theta Chi Cycling App --
+-- THETA CHI CYCLING APP --
 
 
  -- LOGIN --
+
 each teammate has an email login with respective passwords
 
  -- RIDE TAB --
@@ -10,10 +11,12 @@ each teammate has an email login with respective passwords
 - new or inputted ride is saved to firebase for rider when done
 
 
+
  -- ME TAB --
 - not interactive other than scrolling through rides
 - stats loaded from firebase and shown at bottom of screen
 - loads all rides of the logged in rider from firebase and displays in the shown table view
+
 
 
  -- TEAM TAB --
